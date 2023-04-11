@@ -1,0 +1,46 @@
+.game-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.match-container {
+  display: flex;
+  justify-content: center;
+}
+.btn-1 {
+  background-color: transparent;
+  width: 200px;
+}
+.btn-2 {
+  background-color: transparent;
+  width: 200px;
+}
+.btn-3 {
+  width: 200px;
+}
+.bg-btn {
+  background-color: transparent;
+  outline: none;
+  border: 0px solid none;
+  margin: 20px;
+}
+.bg-btn-1 {
+  width: 200px;
+}
+.result {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.play-btn {
+  background-color: white;
+  border-radius: 9px;
+  font-size: 20px;
+  padding: 8px;
+  border: 1px solid white;
+  /* width: 0px; */
+}
+h1 {
+  color: white;
+}
